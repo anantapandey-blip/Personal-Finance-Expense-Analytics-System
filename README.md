@@ -1,2 +1,31 @@
-# Personal-Finance-Expense-Analytics-System
-A Personal Finance &amp; Expense Analytics System built with Python and NumPy.  This project was created to practice working with NumPy arrays and apply concepts such as array slicing, aggregation functions, Boolean filtering, indexing, and data type conversion in a practical project. 
+# Personal Finance & Expense Analytics System 
+
+A Python + NumPy practice project for analyzing yearly personal expenses and managing a monthly budget.
+
+##  Features
+
+* View yearly expenses
+* Calculate monthly expenditure
+* Analyze category-wise spending
+* Find highest & lowest spending months
+* Find expenses exceeding the budget
+* Check and change monthly budget
+* View month-wise expenditure
+* Save expense data to a text file
+
+ Technologies
+
+* Python
+* NumPy
+
+ Concepts Practiced
+
+* NumPy 2D arrays
+* Array slicing & indexing
+* `astype()`
+* `np.sum()`, `np.min()`, `np.max()`
+* `np.argmax()`, `np.argmin()`
+* Boolean masking
+* Row-wise calculations using `axis=1`
+* File handling
+
